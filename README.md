@@ -1,4 +1,4 @@
-MercadoLibreNode
+MercadoLibreNode (Test)
 ================
 
 MercadoLibreNode SDK for Node.js
